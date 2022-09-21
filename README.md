@@ -34,10 +34,5 @@
     <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     
 </div>
-<div id="spotify">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21mt5p2wawvjnk72dyopopqky&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
 
 </div>
