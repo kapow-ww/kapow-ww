@@ -4,7 +4,7 @@
     <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </a>
 
-Welcome to my profile! I’m now studying in Faculty of Computer Engineer. and I’m currently learning everything ✨.
+<!-- Welcome to my profile! I’m now studying in Faculty of Computer Engineer. and I’m currently learning everything ✨. -->
 
 ## My stats
 
