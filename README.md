@@ -1,12 +1,8 @@
 <h1 align="center">
-  สวัสดีครับ ผมโอม. 👋 a.k.a. <code>kapow-ww</code>
+ Hi visitor, I'm NAtc
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1ED760&center=true&vCenter=true&width=520&lines=Software+Developer+%C2%B7+Frontend+%26+Mobile;React+%7C+Flutter+%7C+XState+%7C+Astro+%7C+Bun;%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87+product+%3E+%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99+code+%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7;built+with+too+much+%E2%98%95" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://portfolio-gamma-sand-yku5ctwo9o.vercel.app/">
