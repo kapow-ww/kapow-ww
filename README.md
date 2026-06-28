@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi visitor, I'm NAtc
+ Hi visitor, I'm Natthanon chaiwan
 </h1>
 
 
@@ -14,9 +14,7 @@
   <a href="mailto:natthanoncw@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/kapow-ww">
-    <img src="https://komarev.com/ghpvc/?username=kapow-ww&style=for-the-badge&color=1ED760&label=ใครแอบส่อง" alt="profile views">
-  </a>
+
 </p>
 
 ---
@@ -37,11 +35,13 @@ const ohm = {
 
 **Core stack ที่ใช้จริงในงาน**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,flutter,dart,astro,bun,nodejs,mongodb&theme=dark" />
 </p>
 
 **Frontend / State / Tooling**
 <p>
+ 
+  <img src="https://skillicons.dev/icons?i=ts,react,flutter,dart,astro,bun,nodejs,mongodb&theme=dark" /> 
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=js,vue,vite,tailwind,materialui,figma,docker,linux,git,vercel&theme=dark" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/xstate/2C3E50/white" height="40" alt="XState" title="XState v5" />
@@ -53,11 +53,6 @@ const ohm = {
   <img src="https://cdn.simpleicons.org/shadcnui/white" height="40" alt="shadcn/ui" title="shadcn/ui" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/daisyui" height="40" alt="DaisyUI" title="DaisyUI" />
-</p>
-
-**กำลังเล่นๆ / อยากเก่งขึ้น**
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python&theme=dark" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/elm" height="40" alt="Elm" title="Elm" />
   &nbsp;
@@ -74,8 +69,6 @@ const ohm = {
 </p>
 
 ---
-
-### 📊 สถิติ (ที่ดูดีกว่าเรตใน LoL)
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kapow-ww&show_icons=true&theme=dark&hide_border=true&title_color=1ED760&icon_color=1ED760" />
